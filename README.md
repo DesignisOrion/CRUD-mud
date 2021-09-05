@@ -14,7 +14,7 @@ Hope you enjoy!
 
 ```python
 import sqlite3
-connection = sqlite3.connect('users.db')
+connection = sqlite3.connect('yourdbname.db')
 cursor = connection.cursor()
 ```
 
