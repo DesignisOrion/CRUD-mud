@@ -1,7 +1,14 @@
 # CRUD Template for SQLite3
 
 
-In this project, I wanted to create a simple CRUD template to use for future SQLite3 projects. For this repo I simply created a database (users) in SQLite3 then seprated each operation in its own file. You can also do the same in one file, but this is better for teaching purposes. Hope you enjoy!
+In this project, I wanted to create a simple CRUD template to use for future SQLite3 projects. For this repo I simply created a database (users) in SQLite3 then seprated each operation in its own file. You can also do the same in one file, but this is better for teaching purposes. 
+
+## Terminology
+
+CRUD - CREATE, READ, UPDATE, DELETE
+SQLite3 - A lightweight relational database which uses PostgreSQL syntax. Not A Client-Side Server, Great for Lightweight Applications.
+
+Hope you enjoy!
 
 ## Usage
 
